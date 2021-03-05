@@ -7,4 +7,4 @@ $cd terkey
 $ls
 $python terkey.py
 
-Semoga Bermanfaat☺️
+Semoga Bermanfaat☺️,jadi ini akun kedua dari akun gthub yg diatas yah
